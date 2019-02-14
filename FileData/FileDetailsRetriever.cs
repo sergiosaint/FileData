@@ -1,4 +1,5 @@
-﻿using ThirdPartyFileDetails = ThirdPartyTools.FileDetails;
+﻿using FileData.Interfaces;
+using ThirdPartyFileDetails = ThirdPartyTools.FileDetails;
 
 namespace FileData {
   public class FileDetailsRetriever : IFileDetails

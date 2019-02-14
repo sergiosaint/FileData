@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Linq;
+using FileData.Interfaces;
 
-namespace FileData {
+namespace FileData.Entities {
   public class Processor {
     private static readonly string[] SizeArguments = { "-s", "--s", @"/s", "--size" };
     private static readonly string[] VersionArguments = { "-v", "--v", @"/v", "--version" };

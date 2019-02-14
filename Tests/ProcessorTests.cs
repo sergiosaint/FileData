@@ -1,5 +1,7 @@
 using System;
 using FileData;
+using FileData.Entities;
+using FileData.Interfaces;
 using NSubstitute;
 using NUnit.Framework;
 
