@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FileDetailsRetriever.cs" />
+    <Compile Include="Entities\FileDetailsRetriever.cs" />
     <Compile Include="Interfaces\IFileDetails.cs" />
     <Compile Include="Entities\Processor.cs" />
     <Compile Include="Program.cs" />

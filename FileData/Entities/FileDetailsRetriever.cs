@@ -1,7 +1,7 @@
 ﻿using FileData.Interfaces;
 using ThirdPartyFileDetails = ThirdPartyTools.FileDetails;
 
-namespace FileData {
+namespace FileData.Entities {
   public class FileDetailsRetriever : IFileDetails
   {
 
